@@ -72,7 +72,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+AdsonDevSuperior
 
 https://www.linkedin.com/in/wmazoni
 
